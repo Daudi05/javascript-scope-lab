@@ -9,7 +9,6 @@ if (true) {
  const anotherNewBurger = 'Maple Bacon Burger'
     burgers.push(anotherNewBurger)
 }
-addBurger()
 function changeFeaturedDrink(){
     featuredDrink = 'The Javashake'
 }
